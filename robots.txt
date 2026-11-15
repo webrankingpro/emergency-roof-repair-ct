@@ -1,0 +1,3 @@
+# STAGING: keep crawler access blocked until the final domain and launch are approved.
+User-agent: *
+Disallow: /
